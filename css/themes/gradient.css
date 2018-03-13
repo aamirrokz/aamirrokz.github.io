@@ -24,6 +24,29 @@ main .intro{
   fill: #d63f3f;
 }
 
-.icons-social a:hover{
-    color: #687731;
+/* .icons-social a :hover{
+    color: #8c8f83;
+} */
+.github:hover{
+  color:#666666;
+}
+
+.twitter:hover{
+  color:#2997eb;
+}
+
+.linkedin:hover{
+  color:#0976d5;
+}
+
+.instagram:hover{
+  color: #e6218d;
+}
+
+.free:hover{
+  color:#35ba29;
+}
+
+.codepen:hover{
+  color:#171717;
 }
